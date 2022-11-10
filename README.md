@@ -1,4 +1,4 @@
-### Hi, I'm Hoang Tuan - aka [ShiroNeko][website] = Software Engineer 🌱 
+### Hi, I'm Hoang Tuan - aka [Shiro Neko][website] = Software Engineer 🌱 
 
 
 - 🔭 I'm passionate about Machine Learning and Data Engineering
@@ -9,11 +9,9 @@
 
 <table>
 <tr>
-  <td width="48%">
-    <img src="https://github-readme-stats.vercel.app/api?username=CodexploreRepo&show_icons=true&hide=contribs,issues&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodexploreRepo&layout=compact&show_icons=true&hide_border=true" />
+  <td width="50%"><img alt="gif" align="right" src="https://github.com/CodexploreRepo/CodexploreRepo/blob/master/.github/assets/coding.gif"/></td>
   </td>
-  <td width="52%"><img alt="gif" align="right" src=".github/assets/coding.gif"/></td>
+  <td width="50%"><img alt="gif" align="right" src="https://github.com/CodexploreRepo/CodexploreRepo/blob/master/.github/assets/coding.gif"/></td>
 </tr>
 <table>
 
